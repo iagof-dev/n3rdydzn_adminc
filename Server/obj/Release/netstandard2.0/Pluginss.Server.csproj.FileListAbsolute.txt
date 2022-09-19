@@ -1,0 +1,10 @@
+F:\Pluginss\Server\bin\Release\netstandard2.0\Pluginss.Server.deps.json
+F:\Pluginss\Server\bin\Release\netstandard2.0\Pluginss.Server.net.dll
+F:\Pluginss\Server\bin\Release\netstandard2.0\Pluginss.Server.net.pdb
+F:\Pluginss\Server\obj\Release\netstandard2.0\Pluginss.Server.csproj.AssemblyReference.cache
+F:\Pluginss\Server\obj\Release\netstandard2.0\Pluginss.Server.GeneratedMSBuildEditorConfig.editorconfig
+F:\Pluginss\Server\obj\Release\netstandard2.0\Pluginss.Server.AssemblyInfoInputs.cache
+F:\Pluginss\Server\obj\Release\netstandard2.0\Pluginss.Server.AssemblyInfo.cs
+F:\Pluginss\Server\obj\Release\netstandard2.0\Pluginss.Server.csproj.CoreCompileInputs.cache
+F:\Pluginss\Server\obj\Release\netstandard2.0\Pluginss.Server.net.dll
+F:\Pluginss\Server\obj\Release\netstandard2.0\Pluginss.Server.net.pdb

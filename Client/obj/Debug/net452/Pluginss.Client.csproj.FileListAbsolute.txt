@@ -1,0 +1,9 @@
+F:\Pluginss\Client\bin\Debug\net452\Pluginss.Client.net.dll
+F:\Pluginss\Client\bin\Debug\net452\CitizenFX.Core.Client.dll
+F:\Pluginss\Client\obj\Debug\net452\Pluginss.Client.csproj.AssemblyReference.cache
+F:\Pluginss\Client\obj\Debug\net452\Pluginss.Client.GeneratedMSBuildEditorConfig.editorconfig
+F:\Pluginss\Client\obj\Debug\net452\Pluginss.Client.AssemblyInfoInputs.cache
+F:\Pluginss\Client\obj\Debug\net452\Pluginss.Client.AssemblyInfo.cs
+F:\Pluginss\Client\obj\Debug\net452\Pluginss.Client.csproj.CoreCompileInputs.cache
+F:\Pluginss\Client\obj\Debug\net452\Pluginss.Client.csproj.CopyComplete
+F:\Pluginss\Client\obj\Debug\net452\Pluginss.Client.net.dll

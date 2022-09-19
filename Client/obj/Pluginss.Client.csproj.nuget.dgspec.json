@@ -1,0 +1,69 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\Pluginss\\Client\\Pluginss.Client.csproj": {}
+  },
+  "projects": {
+    "F:\\Pluginss\\Client\\Pluginss.Client.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Pluginss\\Client\\Pluginss.Client.csproj",
+        "projectName": "Pluginss.Client",
+        "projectPath": "F:\\Pluginss\\Client\\Pluginss.Client.csproj",
+        "packagesPath": "C:\\Users\\N3rdy\\.nuget\\packages\\",
+        "outputPath": "F:\\Pluginss\\Client\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\N3rdy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net452"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net452": {
+            "targetAlias": "net452",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net452": {
+          "targetAlias": "net452",
+          "dependencies": {
+            "CitizenFX.Core.Client": {
+              "target": "Package",
+              "version": "[1.0.*, )"
+            }
+          },
+          "downloadDependencies": [
+            {
+              "name": "CitizenFX.Framework.Client",
+              "version": "[0.2.3, 0.2.3]"
+            }
+          ],
+          "frameworkReferences": {
+            "CitizenFX.Framework.Client": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
