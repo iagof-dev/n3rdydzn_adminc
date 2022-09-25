@@ -1,7 +1,7 @@
 # Comandos
 
 /nc<br>
-/tunning<br>
+/tunning (Not Finished)<br>
 /paint<br>
 /v<br>
 /seat<br>
