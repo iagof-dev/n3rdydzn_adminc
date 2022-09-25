@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LeNDn5PmfHnU7jLH6D9G6q5F7BmA93CqFuH4AYpuY42K05SsR/TOuNYUWYw5ufw/NBSOQXZQiSAlbYBWX/nnNg==",
+  "dgSpecHash": "lsVUjYz5LxbYdiiWjfdlC/qLrXs2SFYRFpJiq43SkCeNKpEHFbpxMSessKtMHS+yxn8I/Zq3Hvrcdb+os/jjpQ==",
   "success": true,
-  "projectFilePath": "F:\\Pluginss\\Server\\Pluginss.Server.csproj",
+  "projectFilePath": "D:\\GitHub\\fivem_adminc\\Server\\Pluginss.Server.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\N3rdy\\.nuget\\packages\\citizenfx.core.server\\1.0.5887\\citizenfx.core.server.1.0.5887.nupkg.sha512",
     "C:\\Users\\N3rdy\\.nuget\\packages\\google.protobuf\\3.19.4\\google.protobuf.3.19.4.nupkg.sha512",

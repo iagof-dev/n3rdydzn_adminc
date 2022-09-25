@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Pluginss\\Server\\Pluginss.Server.csproj": {}
+    "D:\\GitHub\\fivem_adminc\\Server\\Pluginss.Server.csproj": {}
   },
   "projects": {
-    "F:\\Pluginss\\Server\\Pluginss.Server.csproj": {
+    "D:\\GitHub\\fivem_adminc\\Server\\Pluginss.Server.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Pluginss\\Server\\Pluginss.Server.csproj",
+        "projectUniqueName": "D:\\GitHub\\fivem_adminc\\Server\\Pluginss.Server.csproj",
         "projectName": "Pluginss.Server",
-        "projectPath": "F:\\Pluginss\\Server\\Pluginss.Server.csproj",
+        "projectPath": "D:\\GitHub\\fivem_adminc\\Server\\Pluginss.Server.csproj",
         "packagesPath": "C:\\Users\\N3rdy\\.nuget\\packages\\",
-        "outputPath": "F:\\Pluginss\\Server\\obj\\",
+        "outputPath": "D:\\GitHub\\fivem_adminc\\Server\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Microsoft Visual Studio\\Shared\\NuGetPackages"

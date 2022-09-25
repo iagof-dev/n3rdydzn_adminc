@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BGv1edlgM5/bt7bhBfuTKrrG6hFVgAcJyq/5FR8owzgwaMJBbMhrpqoaXeqt/tZBkfQfsBTSgZ7rk4YiNEnY4w==",
+  "dgSpecHash": "TyMcv3StGPiD+nyaCqfOKpXqsVfv7moGwCBLHRfMeetvn0J/xfkVcEng/WgRhZ5hKj+zT/pZWFBYDi1nEpACmA==",
   "success": true,
-  "projectFilePath": "F:\\Pluginss\\Client\\Pluginss.Client.csproj",
+  "projectFilePath": "D:\\GitHub\\fivem_adminc\\Client\\Pluginss.Client.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\N3rdy\\.nuget\\packages\\citizenfx.core.client\\1.0.5887\\citizenfx.core.client.1.0.5887.nupkg.sha512",
     "C:\\Users\\N3rdy\\.nuget\\packages\\citizenfx.framework.client\\0.2.3\\citizenfx.framework.client.0.2.3.nupkg.sha512"

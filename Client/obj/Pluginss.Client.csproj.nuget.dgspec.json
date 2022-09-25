@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Pluginss\\Client\\Pluginss.Client.csproj": {}
+    "D:\\GitHub\\fivem_adminc\\Client\\Pluginss.Client.csproj": {}
   },
   "projects": {
-    "F:\\Pluginss\\Client\\Pluginss.Client.csproj": {
+    "D:\\GitHub\\fivem_adminc\\Client\\Pluginss.Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Pluginss\\Client\\Pluginss.Client.csproj",
+        "projectUniqueName": "D:\\GitHub\\fivem_adminc\\Client\\Pluginss.Client.csproj",
         "projectName": "Pluginss.Client",
-        "projectPath": "F:\\Pluginss\\Client\\Pluginss.Client.csproj",
+        "projectPath": "D:\\GitHub\\fivem_adminc\\Client\\Pluginss.Client.csproj",
         "packagesPath": "C:\\Users\\N3rdy\\.nuget\\packages\\",
-        "outputPath": "F:\\Pluginss\\Client\\obj\\",
+        "outputPath": "D:\\GitHub\\fivem_adminc\\Client\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Microsoft Visual Studio\\Shared\\NuGetPackages"
