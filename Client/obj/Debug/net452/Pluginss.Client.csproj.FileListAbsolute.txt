@@ -7,3 +7,4 @@ F:\Pluginss\Client\obj\Debug\net452\Pluginss.Client.AssemblyInfo.cs
 F:\Pluginss\Client\obj\Debug\net452\Pluginss.Client.csproj.CoreCompileInputs.cache
 F:\Pluginss\Client\obj\Debug\net452\Pluginss.Client.csproj.CopyComplete
 F:\Pluginss\Client\obj\Debug\net452\Pluginss.Client.net.dll
+F:\Pluginss\Client\bin\Debug\net452\Newtonsoft.Json.dll

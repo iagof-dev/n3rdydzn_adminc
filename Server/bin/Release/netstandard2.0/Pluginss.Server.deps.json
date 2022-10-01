@@ -9,7 +9,7 @@
     ".NETStandard,Version=v2.0/": {
       "Pluginss.Server/1.0.0": {
         "dependencies": {
-          "CitizenFX.Core.Server": "1.0.5887",
+          "CitizenFX.Core.Server": "1.0.5903",
           "MySql.Data": "8.0.30",
           "NETStandard.Library": "2.0.3"
         },
@@ -17,7 +17,7 @@
           "Pluginss.Server.dll": {}
         }
       },
-      "CitizenFX.Core.Server/1.0.5887": {
+      "CitizenFX.Core.Server/1.0.5903": {
         "runtime": {
           "lib/netstandard20/CitizenFX.Core.Server.dll": {
             "assemblyVersion": "0.0.0.0",
@@ -213,12 +213,12 @@
       "serviceable": false,
       "sha512": ""
     },
-    "CitizenFX.Core.Server/1.0.5887": {
+    "CitizenFX.Core.Server/1.0.5903": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-E6WrjnsADUprd5/33ZpBR3DrKdaRdrxhW1RCC1AWzfp+wrat7IdDnu2xYlHUZJqFg+mfzXwE4ZMYzLCPwFoBMg==",
-      "path": "citizenfx.core.server/1.0.5887",
-      "hashPath": "citizenfx.core.server.1.0.5887.nupkg.sha512"
+      "sha512": "sha512-esqpOqGnmFziBLLN6OXwxTcxu0x5LgVnV8oQrPgRu+j7GvwcVOSkCZRMAoqrcxGeCmGVNTwW83K4VOOqJ5BE8A==",
+      "path": "citizenfx.core.server/1.0.5903",
+      "hashPath": "citizenfx.core.server.1.0.5903.nupkg.sha512"
     },
     "Google.Protobuf/3.19.4": {
       "type": "package",

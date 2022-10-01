@@ -2,7 +2,7 @@
   "version": 3,
   "targets": {
     ".NETStandard,Version=v2.0": {
-      "CitizenFX.Core.Server/1.0.5887": {
+      "CitizenFX.Core.Server/1.0.5903": {
         "type": "package",
         "compile": {
           "lib/netstandard20/CitizenFX.Core.Server.dll": {
@@ -310,14 +310,14 @@
     }
   },
   "libraries": {
-    "CitizenFX.Core.Server/1.0.5887": {
-      "sha512": "E6WrjnsADUprd5/33ZpBR3DrKdaRdrxhW1RCC1AWzfp+wrat7IdDnu2xYlHUZJqFg+mfzXwE4ZMYzLCPwFoBMg==",
+    "CitizenFX.Core.Server/1.0.5903": {
+      "sha512": "esqpOqGnmFziBLLN6OXwxTcxu0x5LgVnV8oQrPgRu+j7GvwcVOSkCZRMAoqrcxGeCmGVNTwW83K4VOOqJ5BE8A==",
       "type": "package",
-      "path": "citizenfx.core.server/1.0.5887",
+      "path": "citizenfx.core.server/1.0.5903",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
-        "citizenfx.core.server.1.0.5887.nupkg.sha512",
+        "citizenfx.core.server.1.0.5903.nupkg.sha512",
         "citizenfx.core.server.nuspec",
         "lib/net45/CitizenFX.Core.Server.dll",
         "lib/net45/CitizenFX.Core.Server.xml",
@@ -982,11 +982,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\GitHub\\fivem_adminc\\Server\\Pluginss.Server.csproj",
+      "projectUniqueName": "F:\\Pluginss\\Server\\Pluginss.Server.csproj",
       "projectName": "Pluginss.Server",
-      "projectPath": "D:\\GitHub\\fivem_adminc\\Server\\Pluginss.Server.csproj",
+      "projectPath": "F:\\Pluginss\\Server\\Pluginss.Server.csproj",
       "packagesPath": "C:\\Users\\N3rdy\\.nuget\\packages\\",
-      "outputPath": "D:\\GitHub\\fivem_adminc\\Server\\obj\\",
+      "outputPath": "F:\\Pluginss\\Server\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1046,7 +1046,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }

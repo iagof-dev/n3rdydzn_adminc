@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\GitHub\\fivem_adminc\\Server\\Pluginss.Server.csproj": {}
+    "F:\\Pluginss\\Server\\Pluginss.Server.csproj": {}
   },
   "projects": {
-    "D:\\GitHub\\fivem_adminc\\Server\\Pluginss.Server.csproj": {
+    "F:\\Pluginss\\Server\\Pluginss.Server.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GitHub\\fivem_adminc\\Server\\Pluginss.Server.csproj",
+        "projectUniqueName": "F:\\Pluginss\\Server\\Pluginss.Server.csproj",
         "projectName": "Pluginss.Server",
-        "projectPath": "D:\\GitHub\\fivem_adminc\\Server\\Pluginss.Server.csproj",
+        "projectPath": "F:\\Pluginss\\Server\\Pluginss.Server.csproj",
         "packagesPath": "C:\\Users\\N3rdy\\.nuget\\packages\\",
-        "outputPath": "D:\\GitHub\\fivem_adminc\\Server\\obj\\",
+        "outputPath": "F:\\Pluginss\\Server\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -71,7 +71,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

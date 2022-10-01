@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\GitHub\\fivem_adminc\\Client\\Pluginss.Client.csproj": {}
+    "F:\\Pluginss\\Client\\Pluginss.Client.csproj": {}
   },
   "projects": {
-    "D:\\GitHub\\fivem_adminc\\Client\\Pluginss.Client.csproj": {
+    "F:\\Pluginss\\Client\\Pluginss.Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GitHub\\fivem_adminc\\Client\\Pluginss.Client.csproj",
+        "projectUniqueName": "F:\\Pluginss\\Client\\Pluginss.Client.csproj",
         "projectName": "Pluginss.Client",
-        "projectPath": "D:\\GitHub\\fivem_adminc\\Client\\Pluginss.Client.csproj",
+        "projectPath": "F:\\Pluginss\\Client\\Pluginss.Client.csproj",
         "packagesPath": "C:\\Users\\N3rdy\\.nuget\\packages\\",
-        "outputPath": "D:\\GitHub\\fivem_adminc\\Client\\obj\\",
+        "outputPath": "F:\\Pluginss\\Client\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -48,6 +48,10 @@
             "CitizenFX.Core.Client": {
               "target": "Package",
               "version": "[1.0.*, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
             }
           },
           "downloadDependencies": [
@@ -61,7 +65,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

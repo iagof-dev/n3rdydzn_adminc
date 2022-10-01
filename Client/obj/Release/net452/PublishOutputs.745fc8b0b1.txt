@@ -1,13 +1,3 @@
 F:\Pluginss\Client\bin\Release\net452\publish\Pluginss.Client.net.dll
 F:\Pluginss\Client\bin\Release\net452\publish\CitizenFX.Core.Client.dll
-F:\Pluginss\Client\bin\Release\net452\publish\Google.Protobuf.dll
-F:\Pluginss\Client\bin\Release\net452\publish\K4os.Compression.LZ4.dll
-F:\Pluginss\Client\bin\Release\net452\publish\K4os.Compression.LZ4.Streams.dll
-F:\Pluginss\Client\bin\Release\net452\publish\K4os.Hash.xxHash.dll
-F:\Pluginss\Client\bin\Release\net452\publish\MySql.Data.dll
-F:\Pluginss\Client\bin\Release\net452\publish\Ubiety.Dns.Core.dll
-F:\Pluginss\Client\bin\Release\net452\publish\ZstdNet.dll
-F:\Pluginss\Client\bin\Release\net452\publish\BouncyCastle.Crypto.dll
-F:\Pluginss\Client\bin\Release\net452\publish\System.Buffers.dll
-F:\Pluginss\Client\bin\Release\net452\publish\System.Memory.dll
-F:\Pluginss\Client\bin\Release\net452\publish\System.Runtime.CompilerServices.Unsafe.dll
+F:\Pluginss\Client\bin\Release\net452\publish\Newtonsoft.Json.dll

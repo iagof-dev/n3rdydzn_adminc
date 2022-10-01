@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "TyMcv3StGPiD+nyaCqfOKpXqsVfv7moGwCBLHRfMeetvn0J/xfkVcEng/WgRhZ5hKj+zT/pZWFBYDi1nEpACmA==",
+  "dgSpecHash": "ppnT1GmnvCsS3LQX8ihwgdgb7tPaVa7TP1dryPtrvcADaZoRHLkFvZVtWl2M6DfOYiBGl40yf1Zael2ZjZwa4g==",
   "success": true,
-  "projectFilePath": "D:\\GitHub\\fivem_adminc\\Client\\Pluginss.Client.csproj",
+  "projectFilePath": "F:\\Pluginss\\Client\\Pluginss.Client.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\N3rdy\\.nuget\\packages\\citizenfx.core.client\\1.0.5887\\citizenfx.core.client.1.0.5887.nupkg.sha512",
+    "C:\\Users\\N3rdy\\.nuget\\packages\\citizenfx.core.client\\1.0.5914\\citizenfx.core.client.1.0.5914.nupkg.sha512",
+    "C:\\Users\\N3rdy\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
     "C:\\Users\\N3rdy\\.nuget\\packages\\citizenfx.framework.client\\0.2.3\\citizenfx.framework.client.0.2.3.nupkg.sha512"
   ],
   "logs": []

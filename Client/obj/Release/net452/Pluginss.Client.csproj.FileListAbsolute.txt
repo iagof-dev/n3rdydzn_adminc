@@ -7,14 +7,4 @@ F:\Pluginss\Client\obj\Release\net452\Pluginss.Client.AssemblyInfo.cs
 F:\Pluginss\Client\obj\Release\net452\Pluginss.Client.csproj.CoreCompileInputs.cache
 F:\Pluginss\Client\obj\Release\net452\Pluginss.Client.csproj.CopyComplete
 F:\Pluginss\Client\obj\Release\net452\Pluginss.Client.net.dll
-F:\Pluginss\Client\bin\Release\net452\Google.Protobuf.dll
-F:\Pluginss\Client\bin\Release\net452\K4os.Compression.LZ4.dll
-F:\Pluginss\Client\bin\Release\net452\K4os.Compression.LZ4.Streams.dll
-F:\Pluginss\Client\bin\Release\net452\K4os.Hash.xxHash.dll
-F:\Pluginss\Client\bin\Release\net452\MySql.Data.dll
-F:\Pluginss\Client\bin\Release\net452\Ubiety.Dns.Core.dll
-F:\Pluginss\Client\bin\Release\net452\ZstdNet.dll
-F:\Pluginss\Client\bin\Release\net452\BouncyCastle.Crypto.dll
-F:\Pluginss\Client\bin\Release\net452\System.Buffers.dll
-F:\Pluginss\Client\bin\Release\net452\System.Memory.dll
-F:\Pluginss\Client\bin\Release\net452\System.Runtime.CompilerServices.Unsafe.dll
+F:\Pluginss\Client\bin\Release\net452\Newtonsoft.Json.dll

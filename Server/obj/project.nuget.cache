@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "lsVUjYz5LxbYdiiWjfdlC/qLrXs2SFYRFpJiq43SkCeNKpEHFbpxMSessKtMHS+yxn8I/Zq3Hvrcdb+os/jjpQ==",
+  "dgSpecHash": "OeFv/sMM2UEC2DFGkwTmK1uq9HERJZeMC3/TeUC9xnU8OKcHnbKTPgh88TFBfgQz2tJjtm+ZLSgHEN4T88INEw==",
   "success": true,
-  "projectFilePath": "D:\\GitHub\\fivem_adminc\\Server\\Pluginss.Server.csproj",
+  "projectFilePath": "F:\\Pluginss\\Server\\Pluginss.Server.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\N3rdy\\.nuget\\packages\\citizenfx.core.server\\1.0.5887\\citizenfx.core.server.1.0.5887.nupkg.sha512",
+    "C:\\Users\\N3rdy\\.nuget\\packages\\citizenfx.core.server\\1.0.5903\\citizenfx.core.server.1.0.5903.nupkg.sha512",
     "C:\\Users\\N3rdy\\.nuget\\packages\\google.protobuf\\3.19.4\\google.protobuf.3.19.4.nupkg.sha512",
     "C:\\Users\\N3rdy\\.nuget\\packages\\k4os.compression.lz4\\1.2.6\\k4os.compression.lz4.1.2.6.nupkg.sha512",
     "C:\\Users\\N3rdy\\.nuget\\packages\\k4os.compression.lz4.streams\\1.2.6\\k4os.compression.lz4.streams.1.2.6.nupkg.sha512",
